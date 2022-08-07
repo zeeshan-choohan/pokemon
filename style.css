@@ -1,0 +1,476 @@
+#div1 {
+   background-color: gainsboro;
+   height: 80px;
+}
+
+#fir:hover {
+   width: 92px;
+   height: 75px;
+   margin-top: 3px;
+}
+
+#sec:hover {
+   width: 92px;
+   height: 75px;
+   margin-top: 3px;
+}
+
+#third:hover {
+   width: 92px;
+   height: 75px;
+   margin-top: 3px;
+}
+
+img.first {
+   background-color: antiquewhite;
+   width: 90px;
+   height: 75px;
+
+
+}
+
+img.second {
+   background-color: antiquewhite;
+   width: 200px;
+   height: 75px;
+
+}
+
+img {
+   position: relative;
+   left: 15%;
+
+}
+
+table.table1 {
+   position: relative;
+   left: 170px;
+}
+
+table.table2 {
+   position: absolute;
+   left: 200px;
+   text-align: center;
+   position: sticky;
+   top: 0px;
+   z-index: 1;
+   background-color: aliceblue;
+}
+
+th.width {
+   width: 105px;
+}
+
+th.width2 {
+   width: 105px;
+   border-bottom: 5px solid yellow;
+}
+
+th.width3 {
+   width: 110px;
+   border-bottom: 5px solid green;
+}
+
+th.width4 {
+   width: 110px;
+   border-bottom: 5px solid red;
+}
+
+th.width5 {
+   width: 110px;
+   border-bottom: 5px solid brown;
+}
+
+th.width6 {
+   width: 110px;
+   border-bottom: 5px solid blue;
+}
+
+th.width7 {
+   width: 110px;
+   border-bottom: 5px solid greenyellow;
+}
+
+th.width8 {
+   width: 110px;
+   border-bottom: 5px solid orangered;
+}
+
+.width2:hover {
+   background-color: yellow;
+}
+
+.width3:hover {
+   background-color: green;
+}
+
+.width4:hover {
+   background-color: red;
+}
+
+.width5:hover {
+   background-color: brown;
+}
+
+.width6:hover {
+   background-color: blue;
+}
+
+.width7:hover {
+   background-color: greenyellow;
+}
+
+.width8:hover {
+   background-color: orangered;
+}
+
+#tab1-img {
+   border: 2px solid black;
+   position: relative;
+   left: 20px;
+   margin-top: 50px;
+   border-radius: 10px;
+   width: 60%;
+   height: 60%;
+   background-color: aqua;
+}
+
+#img-1st {
+   position: relative;
+   left: -3px;
+   width: 101%;
+   border-radius: 10px;
+   margin-top: -2.5px;
+}
+
+#tab2-img {
+   border: 2px solid black;
+   position: relative;
+   left: 20px;
+   margin-top: 20px;
+   border-radius: 10px;
+   width: 30%;
+   height: 30%;
+   background-color: cornflowerblue;
+}
+
+#img-2nd {
+   position: relative;
+   left: -3px;
+   width: 102%;
+   border-radius: 10px;
+   margin-top: -2px;
+}
+
+#tab3-img {
+   border: 2px solid black;
+   position: relative;
+   left: 422px;
+   bottom: 417px;
+   margin-top: 1px;
+   border-radius: 10px;
+   width: 30%;
+   height: 30%;
+   background-color: paleturquoise;
+}
+
+#img-3rd {
+   position: relative;
+   border-radius: 10px;
+   margin-top: -2px;
+   width: 102%;
+   left: -3px;
+}
+
+#tab4-img {
+   border: 2px solid black;
+   position: relative;
+   bottom: 1570px;
+   left: 830px;
+   border-radius: 10px;
+   width: 30%;
+   height: 30%;
+   background-color: plum;
+}
+
+#img-4th {
+   position: relative;
+   top: -3px;
+   left: -3px;
+   bottom: 2px;
+   border-radius: 10px;
+   width: 102%;
+}
+
+#tab5-img {
+   border: 2px solid black;
+   position: relative;
+   bottom: 1550px;
+   left: 830px;
+   border-radius: 10px;
+   width: 30%;
+   height: 30%;
+   background-color: mediumpurple;
+}
+
+#img-5th {
+   position: relative;
+   width: 101.5%;
+   bottom: 2px;
+   left: -2px;
+   border-radius: 10px;
+}
+
+#tab6-img {
+   border: 2px solid black;
+   position: relative;
+   bottom: 1530px;
+   left: 830px;
+   border-radius: 10px;
+   width: 25%;
+   height: 25%;
+   background-color: indianred;
+}
+
+#img-6th {
+   position: relative;
+   width: 120%;
+   height: 104%;
+   bottom: -2px;
+   left: -3px;
+   border-radius: 10px;
+}
+
+#tab7-img {
+   border: 2px solid black;
+   position: relative;
+   left: 70px;
+   bottom: 1300px;
+   width: 80%;
+   height: 68%;
+   border-radius: 10px;
+
+}
+
+#img-7th {
+   position: relative;
+   top: -3px;
+   bottom: 2px;
+   left: -3px;
+   border-radius: 10px;
+   width: 100.6%;
+   height: 100%;
+}
+
+#tab8-img {
+   border: 2px solid black;
+   position: relative;
+   bottom: 1220px;
+   width: 30%;
+   height: 30%;
+   border-radius: 10px;
+   left: 80px;
+
+}
+
+#img-8th {
+   position: relative;
+   width: 102%;
+   bottom: -2px;
+   left: -3px;
+   border-radius: 10px;
+   top: -3px;
+}
+
+#tab9-img {
+   border: 2px solid black;
+   position: relative;
+   bottom: 1640px;
+   width: 30%;
+   height: 30%;
+   border-radius: 10px;
+   left: 480px;
+
+}
+
+#img-9th {
+   position: relative;
+   width: 102%;
+   bottom: -2px;
+   left: -3px;
+   border-radius: 10px;
+   top: -3px;
+}
+
+#h9 {
+   position: relative;
+   top: 25px;
+   border-radius: 10px;
+   width: 101%;
+   left: -1.5px;
+}
+
+#tab10-img {
+   border: 2px solid black;
+   position: relative;
+   bottom: 2160px;
+   width: 30%;
+   height: 30%;
+   border-radius: 10px;
+   left: 880px;
+
+}
+
+#img-10th {
+   position: relative;
+   width: 102%;
+   bottom: -2px;
+   left: -3px;
+   border-radius: 10px;
+   top: -3px;
+}
+
+#tab11-img {
+   border: 2px solid black;
+   position: relative;
+   bottom: 2140px;
+   width: 30%;
+   height: 30%;
+   border-radius: 10px;
+   left: 80px;
+
+}
+
+#img-11th {
+   position: relative;
+   width: 102%;
+   bottom: -2px;
+   left: -3px;
+   border-radius: 10px;
+   top: -3px;
+}
+
+#tab12-img {
+   border: 2px solid black;
+   position: relative;
+   bottom: 2460px;
+   width: 30%;
+   height: 30%;
+   border-radius: 10px;
+   left: 480px;
+
+}
+
+#img-12th {
+   position: relative;
+   width: 102%;
+   bottom: -2px;
+   left: -3px;
+   border-radius: 10px;
+   top: -3px;
+}
+
+#tab13-img {
+   border: 2px solid black;
+   position: relative;
+   bottom: 2980px;
+   width: 30%;
+   height: 30%;
+   border-radius: 10px;
+   left: 880px;
+
+}
+
+#img-13th {
+   position: relative;
+   width: 102%;
+   bottom: -2px;
+   left: -3px;
+   border-radius: 10px;
+   top: -3px;
+}
+
+fieldset {
+   border-top: 1px solid white;
+   border-left: 20px solid black;
+   border-right: 20px dashed black;
+   border-bottom: 20px dotted black;
+   background-image: url(https://img.freepik.com/premium-vector/abstract-dynamic-blue-orange-background_67845-1390.jpg?w=2000);
+}
+
+#tab1-video {
+   position: relative;
+   bottom: 1400px;
+   left: -12px;
+}
+
+td {
+   float: left;
+}
+
+.hov:hover {
+   margin: 5px;
+}
+
+#list1 {
+   position: relative;
+   right: 12px;
+   bottom: 2690px;
+   width: 99%;
+   background-color: black;
+}
+
+#ft-name1:hover {
+   color: white;
+}
+
+#ft-name2:hover {
+   color: white;
+}
+
+#ft-name3:hover {
+   color: white;
+}
+
+#ft-name4:hover {
+   color: white;
+}
+
+#ft-name5:hover {
+   color: white;
+}
+
+#ft-name6:hover {
+   color: white;
+}
+#ft-name7:hover {
+   color: white;
+}
+#ft-name8:hover {
+   color: white;
+}
+#list2 {
+   position: relative;
+   bottom: 3070px;
+   left: 1000px;
+   background-color: black;
+}
+
+#footer-img {
+   position: relative;
+   bottom: 3140px;
+   left: -33%;
+   height: 375px;
+
+}
+
+#footer-img2 {
+   position: relative;
+   bottom: 3144px;
+   left: -12px;
+   height: 2000px;
+}
+
+body {
+   background-image: url(https://images.unsplash.com/photo-1543373014-cfe4f4bc1cdf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGlnaCUyMHJlcyUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80);
+}
